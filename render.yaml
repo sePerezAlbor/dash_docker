@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: dataviz-docker
+    env: docker
+    plan: free
+    branch: main
+    repo: https://github.com/TU_USUARIO/TU_REPO
+    dockerfilePath: ./Dockerfile
+    autoDeploy: true
