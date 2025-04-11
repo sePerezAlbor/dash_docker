@@ -1,0 +1,12 @@
+dash
+pandas
+plotly
+gunicorn
+streamlit
+streamlit-option-menu
+streamlit-folium
+folium
+matplotlib
+geopandas
+plotly.express
+openpyxl
